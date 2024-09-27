@@ -1,4 +1,4 @@
-### Alert_rules yaml contains.
+# Alert_rules yaml contains.
 
 ## Rules
 InstanceDown
